@@ -30,6 +30,12 @@ construtor padrão:
 
 #
 
-# TECNOLOGIAS :
+ TECNOLOGIAS :
 
-<img align="center" alt="Hudson-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<div>
+
+<img align="center" alt="Hudson-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+<img align="center" alt="Hudson-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+
+</div>
